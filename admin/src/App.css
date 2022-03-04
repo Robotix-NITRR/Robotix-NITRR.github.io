@@ -1,0 +1,13 @@
+.container {
+  display: flex;
+  margin-top: 10px;
+}
+/* .link{
+  text-decoration: none;
+  color: inherit;
+} */
+@media screen and (max-width: 700px) {
+  .sidebar {
+      width: 10%;
+  }
+}
