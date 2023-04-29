@@ -13,7 +13,7 @@ import Team from './pages/team';
   
 function App() {
 return (
-    <Router basename={process.env.PUBLIC_URL}>
+    <Router basename={process.env.REACT_APP_URI}>
     <Navbar/>
     <Routes>
 
