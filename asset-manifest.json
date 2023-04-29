@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/Robotix-NITRR/static/css/main.58cfd12e.css",
-    "main.js": "/Robotix-NITRR/static/js/main.b5f9f1a6.js",
+    "main.js": "/Robotix-NITRR/static/js/main.c88d5664.js",
     "static/js/787.ec704a7a.chunk.js": "/Robotix-NITRR/static/js/787.ec704a7a.chunk.js",
     "static/media/pngegg.jpeg": "/Robotix-NITRR/static/media/pngegg.391a2fca39fa36fe953b.jpeg",
     "static/media/arduino.png": "/Robotix-NITRR/static/media/arduino.ba271be794df5f1ee8d4.png",
@@ -10,11 +10,11 @@
     "static/media/gear.png": "/Robotix-NITRR/static/media/gear.19088b55cd0144dc6782.png",
     "index.html": "/Robotix-NITRR/index.html",
     "main.58cfd12e.css.map": "/Robotix-NITRR/static/css/main.58cfd12e.css.map",
-    "main.b5f9f1a6.js.map": "/Robotix-NITRR/static/js/main.b5f9f1a6.js.map",
+    "main.c88d5664.js.map": "/Robotix-NITRR/static/js/main.c88d5664.js.map",
     "787.ec704a7a.chunk.js.map": "/Robotix-NITRR/static/js/787.ec704a7a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.58cfd12e.css",
-    "static/js/main.b5f9f1a6.js"
+    "static/js/main.c88d5664.js"
   ]
 }
